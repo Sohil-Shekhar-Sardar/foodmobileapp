@@ -282,6 +282,7 @@ class _HomePageState extends State<HomePage> {
                                     image: AssetImage("assets/images/burgers_img.png"),
                                   fit: BoxFit.cover,
                                 ),
+
                                 borderRadius: BorderRadius.only(
                                   bottomRight: Radius.circular(10)
                                 )
